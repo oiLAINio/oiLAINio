@@ -7,7 +7,7 @@
 - 💼 &nbsp; Back-end developer, front-end web developer and infrastructure.
 - 🌱 &nbsp; Enthusiast in cyber Security.
 - ⌨️ &nbsp; Some of the things I’m currently working on include:<br>  
-  - [TMP] A team member portal that connecting automation tools and third party applications <br>
+  - [ProtoShelf] Component tracking and organization application written in TS and Go <br>
   - [NekoCyberSeeker] A tool that consolidates and contributes open source cyber security data. Reducing complexity in threat assesment<br>
 
 <h3>🛠 Tech Stack</h3> 
