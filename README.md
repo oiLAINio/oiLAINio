@@ -1,12 +1,12 @@
 <h2> Hey there! I'm Matt.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> About Me </h3>
 
  I enjoy tackling challenges in web development and automation and turning complex problems into elegant solutions.
-- 🔭 &nbsp; I’m currently learning AI model training.
-- 💼 &nbsp; Back-end developer, front-end web developer and infrastructure.
-- 🌱 &nbsp; Enthusiast in cyber Security.
-- ⌨️ &nbsp; Some of the things I’m currently working on include:<br>  
+- I’m currently learning AI model training.
+- Back-end developer, front-end web developer and infrastructure.
+- Enthusiast in cyber Security.
+- Some of the things I’m currently working on include:<br>  
   - [ProtoShelf] Component tracking and organization application written in TS and Go <br>
   - [NekoCyberSeeker] A tool that consolidates and contributes open source cyber security data. Reducing complexity in threat assesment<br>
 
